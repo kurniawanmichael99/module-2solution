@@ -1,2 +1,2 @@
 # module-2solution
-Module 2 solution for Ciyrsera
+Module 2 solution for Coursera
